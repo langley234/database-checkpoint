@@ -53,7 +53,7 @@ Query : ![challenge_12_query](https://user-images.githubusercontent.com/86250445
 Results : ![challenge_12_results](https://user-images.githubusercontent.com/86250445/129060802-426c4e00-7de5-4013-8f55-6770ae7e1028.png)
 ___________________________________________________________________________________________________________________________________________
 CHALLENGE 13
-Query : ![challenge_13_query](https://user-images.githubusercontent.com/86250445/129063057-70f79916-3c29-4a65-83d9-206f8335670c.png)
-Results : ![challenge_13_results](https://user-images.githubusercontent.com/86250445/129063076-35840034-1b45-41d4-89da-6626d5b1d7ce.png)
+Query : ![challenge_13_query](https://user-images.githubusercontent.com/86250445/129068699-eb87d1de-2d8d-4c40-9402-9fbab8019fae.png)
+Results : ![challenge_13_results](https://user-images.githubusercontent.com/86250445/129068715-f92d396d-a5d6-48d4-9fa8-4cc600897733.png)
 ___________________________________________________________________________________________________________________________________________
 # database-checkpoint
